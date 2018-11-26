@@ -14,12 +14,12 @@ Class NestedHotKeysWGui{
     }
     Add(hotKey, function ,desc){
         name:=this.guiNumber
-        Gui, %name%:Font, s20, Calibri
+        Gui, %name%:Font, s20 cWhite, Calibri
         Gui, %name%:Font, bold
         guiPos:="x25 y"this.textPosition
         Gui, %name%:Add, Text,%guiPos%, %hotKey%
         this.textPosition:=this.textPosition+30
-        Gui, %name%:Font, s18, Calibri
+        Gui, %name%:Font, s18 cWhite, Calibri
         guiPos:="x25 y"this.textPosition
         Gui, %name%:Add, Text,%guiPos%, %desc%
         this.textPosition:=this.textPosition+30
