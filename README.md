@@ -31,4 +31,6 @@ To use this you would do the following:
 
 ## More examples
 * [Simple Example](https://github.com/SiulSalas/NestedHotkeysWGui/blob/master/Simple%20Example.ahk) - This functional example replaces the shortcut Windoes+E with a GUI including different folders instead of the default.
+![Simple Example Image](https://raw.githubusercontent.com/SiulSalas/NestedHotkeysWGui/master/Simple%20Example.png)
+
 * [Nested Hotkeys](https://github.com/SiulSalas/NestedHotkeysWGui/blob/master/Nested%20Hotkeys.ahk) - This example shows how to add GUIs inside GUIs, expanding the functionality of your keyboard massively.
