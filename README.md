@@ -1,6 +1,6 @@
 # NestedHotkeysWGui
 An ahk class to create nested hotkeys with a GUI
-### [Repository moved to my main account! All following updates after v1.0 are goint o be there, starting with the new v!.1!](https://github.com/LuisSanchez-Dev/NestedHotkeysWGui)
+### [Repository moved to my main account! All following updates after v1.0 are going to be there, starting with the new v!.1!](https://github.com/LuisSanchez-Dev/NestedHotkeysWGui)
 ## Getting started
 ### Installation
 Download the [lib/NestedHotkeysWGui.ahk](https://github.com/SiulSalas/NestedHotkeysWGui/tree/master/lib) file and put it on a 'lib' folder next to your script
